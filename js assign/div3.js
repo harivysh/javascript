@@ -8,5 +8,5 @@ else{
 
     //ternary op
 
-    let n=337;
-n % 3 == 0 ? console.log( " yes div by 3"):console.log( " no div by 3")
+   /*() let n=337;
+n % 3 == 0 ? console.log( " yes div by 3"):console.log( " no div by 3")*/
