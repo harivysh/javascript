@@ -1,0 +1,19 @@
+.text{
+    text-align: center;
+    margin-bottom: 10px;
+
+    color: purple;
+}
+
+input[type="button"]{
+    background-color: black;
+    color: white;
+    border: solid black 2px;
+    width: 100%;
+}
+
+input[type="text"]{
+    background-color:white;
+    border: solid black 2px;
+    width: 100%;
+}
